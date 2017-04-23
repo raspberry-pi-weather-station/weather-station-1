@@ -19,7 +19,7 @@ day_list = ['today','day+1','day+2','day+3']
 i = 0
 for day in day_list :
     data[day] = {} # to make a nested dictionary
-    data[day]['temperature'] = str((int(parsed[i]['high']['celsius']) + int(parsed[i]['low']['celsius']))/2) # average temperature
+    data[day]['temperature'] = parsed[i]['high']
     data[day]['humidity'] = parsed[i]['avehumidity'] # Average Humidity
     data[day]['pop'] = parsed[i]['pop'] # probability of precipitation
     data[day]['wind'] = {}
@@ -37,3 +37,9 @@ for day in day_list :
     data[day]['date']['weekday'] = parsed[i]['date']['weekday']
 
     i = i + 1
+
+file_data = json.dumps(data)
+path = 'wunderground.json'
+output_file = open(path, 'w')
+output_file.write(file_data)
+output_file.close()
