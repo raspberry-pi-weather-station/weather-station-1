@@ -1,9 +1,18 @@
 #!/usr/bin/python
-import sys
 import Adafruit_DHT
+import json
 
-while True:
+humidity, temperature = Adafruit_DHT.read_retry(11, 4)
 
-	    humidity, temperature = Adafruit_DHT.read_retry(11, 4)
+json_file = open('sensors.json','r')
+file_contents = json_file.read()
+json_data = json.loads(file_contents)
 
-	    print 'Temp: {0:0.1f} C  Humidity: {1:0.1f} %'.format(temperature, humidity)
+json_data['temperature'] = temperature
+json_data['humidity'] = humidity
+json_file.close()
+
+data = json.dumps(json_data)
+json_file = open('sensors.json', 'w')
+json_file.write(data)
+json_file.close()
