@@ -22,6 +22,7 @@ for day in day_list :
     data[day]['temperature'] = parsed[i]['high']
     data[day]['humidity'] = parsed[i]['avehumidity'] # Average Humidity
     data[day]['pop'] = parsed[i]['pop'] # probability of precipitation
+    data[day]['condition'] = parsed[i]['conditions']
     data[day]['wind'] = {}
     data[day]['wind']['speed'] = parsed[i]['avewind']['kph'] # Wind speed in kmph
     data[day]['wind']['dir'] = parsed[i]['avewind']['dir'] # Wind direction
