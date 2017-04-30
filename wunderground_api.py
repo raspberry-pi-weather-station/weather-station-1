@@ -40,7 +40,7 @@ for day in day_list :
     i = i + 1
 
 file_data = json.dumps(data)
-path = 'wunderground.json'
+path = '/home/pi/weather_station/weather-station-1/wunderground.json'
 output_file = open(path, 'w')
 output_file.write(file_data)
 output_file.close()
