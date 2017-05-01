@@ -1,0 +1,8 @@
+"temperature": 32.0
+"aqi": 0
+"altitude": 863.8658270818567
+"slp": 91370.0
+"humidity": 26.0
+"pressure": 91375
+"date": {"day": "30", "month": "Apr", "weekday": "Sun", "pretty": "Sun Apr 30 20:14:15 2017", "time": "20:14:15"}
+"uvindex": 0

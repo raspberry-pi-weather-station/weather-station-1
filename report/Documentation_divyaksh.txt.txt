@@ -1,0 +1,61 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\title{Wunderground API Usage}
+\author{Divyaksh Shukla}
+\begin{document}
+\maketitle
+\section{Introduction}
+Wunderground API is a weather forecast API provided by Weather.com. This can be used to get weather information of almost any major cities in the world. Wunderground delivers data as an HTTP response in a JSON file document.
+\section{Data Extraction}
+Data from the HTTP response is stored into a string and using Python's JSON library the string is broken into a Python dictionary for easy access of data.
+\section{HTTP Request and Response}
+To extract the data, the Python program first issues an HTTP request to the URL: 'http://api.wunderground.com/api/\textless Your API Key \textgreater /forecast/q/IN/Bangalore.json'
+\begin{verbatim}
+"period":1,
+		"high": {
+		"fahrenheit":"79",
+		"celsius":"26"
+		},
+		"low": {
+		"fahrenheit":"71",
+		"celsius":"22"
+		},
+		"pop":80,
+		"qpf_allday": {
+		"in": 0.13,
+		"mm": 3
+		},
+		"qpf_day": {
+		"in": 0.06,
+		"mm": 2
+		},
+		"qpf_night": {
+		"in": 0.09,
+		"mm": 2
+		},
+		"maxwind": {
+		"mph": 10,
+		"kph": 16,
+		"dir": "SE",
+		"degrees": 136
+		},
+		"avewind": {
+		"mph": 5,
+		"kph": 8,
+		"dir": "SE",
+		"degrees": 136
+		},
+		"avehumidity": 48,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+},
+\end{verbatim}
+
+\subsection{HTTP}
+HTTP an acronym for Hyper Text Transfer Protocol. It defines the rules by which Internet traffic flows from one node to another. It comprises of two parts, HTTP request and HTTP response. HTTP request is the routine to access the webpage or webservice, while Response is the response sent back by the server to the client. The response can be either the html webpage or some requested data. It depends on the server script.
+
+\section{Data Curation}
+Selective data from the JSON file is taken out and packed into a local JSON file for further processing.
+\end{document}
+

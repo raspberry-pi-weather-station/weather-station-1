@@ -1,0 +1,16 @@
+UV INDEX (ML8511)
+
+DESCRIPTION
+
+The ML8511 is a UV sensor, which is suitable for acquiring UV intensity indoors or outdoors. iT is equipped with an internal amplifier, which converts photo-current to voltage depending on the UV intensity. This unique feature offers an easy interface to external circuits such as ADC. In the power down mode, typical standby current is 0.1A, thus enabling a longer battery life.
+
+This sensor detects 280-390nm light most effectively. This is categorized as part of the UVB (burning rays) spectrum and most of the UVA (tanning rays) spectrum. It outputs a analog voltage that is linearly related to the measured UV intensity (mW/cm2). If your microcontroller can do an analog to voltage conversion then you can detect the level of UV. 
+
+
+SPECIFICATION
+
+    Supply Voltage: DC 5V
+    Operating Temperature: -20~70°C
+    Sensitivity Region：UV-A and UV-B
+    Sensitivity Wave Length:280-390nm
+    Module Size: 30 x 22mm
