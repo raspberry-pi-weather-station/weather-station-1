@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.29)  1 MAY 2017 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.29)  1 MAY 2017 20:16
 entering extended mode
 **document.tex
 (document.tex
@@ -94,29 +94,16 @@ Package pdftex.def Info: PES.jpg used on input line 10.
 
 ] [4
 
+] [5
+
 ]
-<raspi_b+.jpg, id=18, 308.352pt x 205.9695pt>
+<raspi_b+.jpg, id=21, 308.352pt x 205.9695pt>
 File: raspi_b+.jpg Graphic file (type jpg)
  <use raspi_b+.jpg>
-Package pdftex.def Info: raspi_b+.jpg used on input line 68.
+Package pdftex.def Info: raspi_b+.jpg used on input line 74.
 (pdftex.def)             Requested size: 308.35124pt x 205.96898pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 74--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
@@ -125,44 +112,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-[5
 
- <./raspi_b+.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
-[6]
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+[6
+
+ <./raspi_b+.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+[7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 107.
+(Font)              <10.95> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 107.
+(Font)              <8> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 107.
+(Font)              <6> on input line 113.
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ì in font cmbx12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-
- []
-
-<aqi.jpg, id=26, 176.2683pt x 176.2683pt>
-File: aqi.jpg Graphic file (type jpg)
- <use aqi.jpg>
-Package pdftex.def Info: aqi.jpg used on input line 109.
-(pdftex.def)             Requested size: 176.26785pt x 176.26785pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
-[7
+<aqi.jpg, id=30, 176.2683pt x 176.2683pt>
+File: aqi.jpg Graphic file (type jpg)
+ <use aqi.jpg>
+Package pdftex.def Info: aqi.jpg used on input line 115.
+(pdftex.def)             Requested size: 176.26785pt x 176.26785pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+[8
 
  <./aqi.jpg>]
 Missing character: There is no ‚ in font cmr10!
@@ -181,12 +183,12 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¢ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
@@ -203,92 +205,92 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¢ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--145
+Underfull \hbox (badness 10000) in paragraph at lines 145--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--145
+Underfull \hbox (badness 10000) in paragraph at lines 145--151
 
  []
 
-<mq135.jpg, id=31, 368.1253pt x 201.00093pt>
+<mq135.jpg, id=34, 368.1253pt x 201.00093pt>
 File: mq135.jpg Graphic file (type jpg)
  <use mq135.jpg>
-Package pdftex.def Info: mq135.jpg used on input line 147.
+Package pdftex.def Info: mq135.jpg used on input line 153.
 (pdftex.def)             Requested size: 368.1244pt x 201.00043pt.
 
-Overfull \hbox (8.1244pt too wide) in paragraph at lines 146--153
+Overfull \hbox (8.1244pt too wide) in paragraph at lines 152--159
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--153
+Underfull \hbox (badness 10000) in paragraph at lines 152--159
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 154--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--169
-
- []
-
-[9 <./mq135.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 160--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+Underfull \hbox (badness 10000) in paragraph at lines 170--175
+
+ []
+
+[10 <./mq135.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
  []
 
-<bmp.jpg, id=40, 267.66667pt x 201.99689pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+<bmp.jpg, id=43, 267.66667pt x 201.99689pt>
 File: bmp.jpg Graphic file (type jpg)
  <use bmp.jpg>
-Package pdftex.def Info: bmp.jpg used on input line 177.
+Package pdftex.def Info: bmp.jpg used on input line 183.
 (pdftex.def)             Requested size: 267.666pt x 201.99638pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--181
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-[10 <./bmp.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[11 <./bmp.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-<pinbmp.jpg, id=44, 325.215pt x 351.56343pt>
+<pinbmp.jpg, id=47, 325.215pt x 351.56343pt>
 File: pinbmp.jpg Graphic file (type jpg)
  <use pinbmp.jpg>
-Package pdftex.def Info: pinbmp.jpg used on input line 184.
+Package pdftex.def Info: pinbmp.jpg used on input line 190.
 (pdftex.def)             Requested size: 325.2142pt x 351.56256pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--186
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
 
  []
 
@@ -303,43 +305,43 @@ Missing character: There is no ¢ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¢ in font cmr10!
-[11 <./pinbmp.jpg>]
-Overfull \hbox (6.7592pt too wide) in paragraph at lines 198--200
+[12 <./pinbmp.jpg>]
+Overfull \hbox (6.7592pt too wide) in paragraph at lines 204--206
 []\OT1/cmr/m/n/10.95 I 2C is a dig-i-tal two wire in-ter-face with clock fre-qu
 en-cies up to 3.4Mbit/sec.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--200
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
 
-<I2C.jpg, id=50, 372.64218pt x 146.04562pt>
+<I2C.jpg, id=53, 372.64218pt x 146.04562pt>
 File: I2C.jpg Graphic file (type jpg)
  <use I2C.jpg>
-Package pdftex.def Info: I2C.jpg used on input line 201.
+Package pdftex.def Info: I2C.jpg used on input line 207.
 (pdftex.def)             Requested size: 372.64127pt x 146.04524pt.
 
-Overfull \hbox (29.64127pt too wide) in paragraph at lines 201--203
+Overfull \hbox (29.64127pt too wide) in paragraph at lines 207--209
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--203
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--211
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-[12 <./I2C.jpg>]
+[13 <./I2C.jpg>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¢ in font cmr10!
@@ -356,155 +358,155 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¢ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--231
+Underfull \hbox (badness 10000) in paragraph at lines 234--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--231
+Underfull \hbox (badness 10000) in paragraph at lines 234--237
 
  []
 
-<lcd.jpg, id=54, 411.78844pt x 347.04657pt>
+<lcd.jpg, id=58, 411.78844pt x 347.04657pt>
 File: lcd.jpg Graphic file (type jpg)
  <use lcd.jpg>
-Package pdftex.def Info: lcd.jpg used on input line 232.
+Package pdftex.def Info: lcd.jpg used on input line 238.
 (pdftex.def)             Requested size: 411.78741pt x 347.04572pt.
 
-Overfull \hbox (68.78741pt too wide) in paragraph at lines 232--233
+Overfull \hbox (68.78741pt too wide) in paragraph at lines 238--239
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--239
-
- []
-
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-[14 <./lcd.jpg>]
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no µ in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--258
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--260
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
 
  []
 
-<dht11.jpg, id=63, 318.43968pt x 376.40625pt>
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+[15 <./lcd.jpg>]
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no µ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+<dht11.jpg, id=66, 318.43968pt x 376.40625pt>
 File: dht11.jpg Graphic file (type jpg)
  <use dht11.jpg>
-Package pdftex.def Info: dht11.jpg used on input line 261.
+Package pdftex.def Info: dht11.jpg used on input line 267.
 (pdftex.def)             Requested size: 240.72903pt x 284.54968pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--266
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
 
  []
 
-[15 <./dht11.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
+[16 <./dht11.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
-[16] [17
+[17] [18
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--320
+Underfull \hbox (badness 10000) in paragraph at lines 323--326
 
  []
 
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 323.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 329.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 323.
- [18
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 329.
+ [19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 366--368
+Underfull \hbox (badness 10000) in paragraph at lines 372--374
 
  []
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 377--379
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 383--385
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--384
+Underfull \hbox (badness 10000) in paragraph at lines 388--390
 
  []
 
-[20
+[21
 
 ]
-Overfull \hbox (16.8934pt too wide) in paragraph at lines 391--392
+Overfull \hbox (16.8934pt too wide) in paragraph at lines 397--398
 \OT1/cmr/m/n/10.95 un-ex-pected out-ages, and re-ceived praise for stay-ing on-
 line dur-ing the widespread
  []
@@ -513,26 +515,28 @@ Missing character: There is no ‚ in font cmbx10!
 Missing character: There is no Ä in font cmbx10!
 Missing character: There is no ô in font cmbx10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--405
+Underfull \hbox (badness 10000) in paragraph at lines 409--411
 
  []
 
 
-Overfull \hbox (40.73434pt too wide) in paragraph at lines 406--407
+Overfull \hbox (40.73434pt too wide) in paragraph at lines 412--413
 []\OT1/cmr/m/n/10.95 how to send sms can be found on \OT1/cmtt/m/n/10.95 https:
 //github.com/akhiljns/fluffy-codes 
  []
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 
  []
 
-[22
-
-] [23
+[23
 
 ] [24
+
+] [25
+
+] [26
 
 ] (document.aux) ) 
 Here is how much of TeX's memory you used:
@@ -553,9 +557,9 @@ s/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmtt10.pfb>
-Output written on document.pdf (24 pages, 1293531 bytes).
+Output written on document.pdf (26 pages, 1296295 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
