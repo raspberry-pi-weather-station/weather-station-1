@@ -35,26 +35,26 @@ while True :
 		lcd.message(str('\nTemp={0:0.2f}*C\n'.format(data['temperature'])))
 
 		time.sleep(delay_time)
-		# clearLCD()
+		lcd.clear();
 		lcd.message('Time=' + data['date']['time'] + "\n")
 		lcd.message(str('\nHum={0:0.2f}%\n'.format(data['humidity'])))
 	
 		time.sleep(delay_time)
-		# clearLCD()
+		lcd.clear();
 		lcd.message('Time=' + data['date']['time'] + "\n")
 		lcd.message(str('\nSLP={0:0.2f}Pa\n'.format(data['slp'])))
 	
 		time.sleep(delay_time)
-		# clearLCD()
+		lcd.clear();
 		lcd.message('Time=' + data['date']['time'] + "\n")
 		lcd.message(str('\nPress={0:0.2f}Pa\n'.format(data['pressure'])))
 	
 		time.sleep(delay_time)
-		# clearLCD()
+		lcd.clear();
 		lcd.message('Time=' + data['date']['time'] + "\n")
 		lcd.message(str('\nAlt={0:0.2f}\n'.format(data['altitude'])))
 		time.sleep(delay_time)
-		# clearLCD()
+		lcd.clear();
 		json_file.close()
 
 exit(0)
